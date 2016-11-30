@@ -7,3 +7,4 @@ vi lagar till en liten
 
 
 [Käyttö-ohje](https://github.com/kymcoscooters/viikko5/blob/master/dokumentointi/kaytto-ohje.md)
+*ja lägger til lännu lite*
